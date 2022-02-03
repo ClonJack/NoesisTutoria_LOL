@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"G:\\UE_Project\\ProjectNoesis\\Plugins\\NoesisGUI\\Source\\NoesisBlueprint\\NoesisBlueprint.Build.cs",
+		"G:\\UE_Project\\ProjectNoesis\\Plugins\\NoesisGUI\\Source\\Noesis\\Noesis.Build.cs",
+		"G:\\UE_Project\\ProjectNoesis\\Plugins\\NoesisGUI\\Source\\NoesisEditor\\NoesisEditor.Build.cs",
+		"G:\\UE_Project\\ProjectNoesis\\Plugins\\NoesisGUI\\Source\\NoesisRuntime\\NoesisRuntime.Build.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

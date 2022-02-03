@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NoesisRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\UE_Project\ProjectNoesis\Plugins\NoesisGUI\Intermediate\Build\Win64\UnrealEditor\Development\NoesisRuntime\PCH.NoesisRuntime.h.obj"
+"G:\UE_Project\ProjectNoesis\Plugins\NoesisGUI\Intermediate\Build\Win64\UnrealEditor\Development\NoesisRuntime\Module.NoesisRuntime.cpp.obj"
+"G:\UE_Project\ProjectNoesis\Plugins\NoesisGUI\Intermediate\Build\Win64\UnrealEditor\Development\NoesisRuntime\Module.NoesisRuntime.gen.cpp.obj"
+"G:\UE_Project\ProjectNoesis\Plugins\NoesisGUI\Intermediate\Build\Win64\UnrealEditor\Development\NoesisRuntime\Default.rc2.res"
+/OUT:"G:\UE_Project\ProjectNoesis\Plugins\NoesisGUI\Intermediate\Build\Win64\UnrealEditor\Development\NoesisRuntime\UnrealEditor-NoesisRuntime.lib"
+/INCLUDE:IMPLEMENT_MODULE_NoesisRuntime

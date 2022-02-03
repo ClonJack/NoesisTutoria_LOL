@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NoesisRuntime.cpp.obj": [
+			"LocTableExtension.cpp.obj",
+			"LocTextExtension.cpp.obj",
+			"NoesisBaseComponent.cpp.obj",
+			"NoesisBlueprint.cpp.obj",
+			"NoesisBlueprintGeneratedClass.cpp.obj",
+			"NoesisFunctionLibrary.cpp.obj",
+			"NoesisInstance.cpp.obj",
+			"NoesisInteractivity.cpp.obj",
+			"NoesisInterface.cpp.obj",
+			"NoesisMediaElement.cpp.obj",
+			"NoesisMediaPlayer.cpp.obj",
+			"NoesisResourceProvider.cpp.obj",
+			"NoesisRuntimeModule.cpp.obj",
+			"NoesisSettings.cpp.obj",
+			"NoesisStructs.cpp.obj",
+			"NoesisSupport.cpp.obj",
+			"NoesisTypeClass.cpp.obj",
+			"NoesisXaml.cpp.obj",
+			"NoesisRenderDevice.cpp.obj",
+			"NoesisShaders.cpp.obj"
+		],
+		"Module.NoesisRuntime.gen.cpp.obj": [
+			"NoesisBaseComponent.gen.cpp.obj",
+			"NoesisBlueprint.gen.cpp.obj",
+			"NoesisBlueprintGeneratedClass.gen.cpp.obj",
+			"NoesisEnums.gen.cpp.obj",
+			"NoesisFunctionLibrary.gen.cpp.obj",
+			"NoesisInstance.gen.cpp.obj",
+			"NoesisInterface.gen.cpp.obj",
+			"NoesisRuntime.init.gen.cpp.obj",
+			"NoesisSettings.gen.cpp.obj",
+			"NoesisStructs.gen.cpp.obj",
+			"NoesisXaml.gen.cpp.obj"
+		]
+	}
+}

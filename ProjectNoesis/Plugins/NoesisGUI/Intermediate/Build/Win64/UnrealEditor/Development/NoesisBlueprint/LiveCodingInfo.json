@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NoesisBlueprint.cpp.obj": [
+			"K2Node_NoesisAssignAndNotify.cpp.obj",
+			"NoesisBlueprintModule.cpp.obj"
+		],
+		"Module.NoesisBlueprint.gen.cpp.obj": [
+			"K2Node_NoesisAssignAndNotify.gen.cpp.obj",
+			"NoesisBlueprint.init.gen.cpp.obj"
+		]
+	}
+}

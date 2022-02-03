@@ -1,0 +1,2 @@
+G:/UE_Project/ProjectNoesis/Plugins/NoesisGUI/Source/NoesisBlueprint/Private/K2Node_NoesisAssignAndNotify.cpp
+G:/UE_Project/ProjectNoesis/Plugins/NoesisGUI/Source/NoesisBlueprint/Private/NoesisBlueprintModule.cpp

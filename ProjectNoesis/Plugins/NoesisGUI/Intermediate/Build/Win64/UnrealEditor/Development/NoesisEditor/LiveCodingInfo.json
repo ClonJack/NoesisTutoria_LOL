@@ -1,0 +1,34 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NoesisEditor.cpp.obj": [
+			"NoesisBlueprintApplicationMode.cpp.obj",
+			"NoesisBlueprintApplicationModes.cpp.obj",
+			"NoesisBlueprintAssetTypeActions.cpp.obj",
+			"NoesisBlueprintCompiler.cpp.obj",
+			"NoesisBlueprintCompilerContext.cpp.obj",
+			"NoesisBlueprintEditor.cpp.obj",
+			"NoesisBlueprintEditorCommands.cpp.obj",
+			"NoesisBlueprintEditorToolbar.cpp.obj",
+			"NoesisBlueprintFactory.cpp.obj",
+			"NoesisBlueprintGraphApplicationMode.cpp.obj",
+			"NoesisBlueprintPreviewApplicationMode.cpp.obj",
+			"NoesisEditorModule.cpp.obj",
+			"NoesisStyle.cpp.obj",
+			"NoesisXamlAssetTypeActions.cpp.obj",
+			"NoesisXamlFactory.cpp.obj",
+			"NoesisXamlReimportFactory.cpp.obj",
+			"NoesisXamlThumbnailRenderer.cpp.obj",
+			"PreviewTabSummoner.cpp.obj",
+			"SBlueprintModeSeparator.cpp.obj",
+			"SPreviewWidget.cpp.obj"
+		],
+		"Module.NoesisEditor.gen.cpp.obj": [
+			"NoesisBlueprintFactory.gen.cpp.obj",
+			"NoesisEditor.init.gen.cpp.obj",
+			"NoesisXamlFactory.gen.cpp.obj",
+			"NoesisXamlReimportFactory.gen.cpp.obj",
+			"NoesisXamlThumbnailRenderer.gen.cpp.obj"
+		]
+	}
+}
